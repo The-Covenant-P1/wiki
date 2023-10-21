@@ -1,5 +1,4 @@
 # The Covenant
 
-## Who we are
-** **
-An exclusive, elite **team**, oath-bound to **fight** for each other’s **success **in game dev.
+## Read all about us: [Wiki](https://github.com/The-Covenant-P1/wiki/wiki)
+
